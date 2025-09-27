@@ -1,0 +1,1 @@
+oh-my-posh.exe init pwsh --config "C:\Users\pizza\wutnvrdrkgreen.omp.json" | Invoke-Expression
