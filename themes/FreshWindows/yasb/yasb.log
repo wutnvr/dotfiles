@@ -1,0 +1,886 @@
+2026-01-19 13:20:57,279 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 13:20:57,279 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 13:20:57,280 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 13:20:57,363 [INFO] [MainThread] [root/config.py:64]: Created default config file at C:\Users\blyat\.config\yasb\config.yaml
+2026-01-19 13:20:57,390 [INFO] [MainThread] [root/config.py:78]: Created default stylesheet at C:\Users\blyat\.config\yasb\styles.css
+2026-01-19 13:20:58,878 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2026-01-19 13:20:58,898 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2026-01-19 13:20:58,935 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-19 13:20:59,643 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2026-01-19 13:20:59,698 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-19 13:20:59,698 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-19 13:20:59,698 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-19 13:20:59,699 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 13:20:59,746 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-9ad956d4-f563-11f0-a441-50ebf6815de2
+2026-01-19 13:20:59,766 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 13:20:59,766 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 13:20:59,767 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 13:22:19,126 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-01-19 13:22:19,236 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 13:22:19,236 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 13:22:19,355 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-19 13:22:19,355 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-19 13:22:19,355 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-19 13:22:19,361 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 13:22:19,375 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 13:22:19,380 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 13:22:19,586 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 13:22:19,586 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 13:22:19,586 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 13:22:20,691 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 13:22:20,726 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 13:22:20,726 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 13:22:20,727 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 13:22:20,936 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 13:22:20.936554
+2026-01-19 13:26:59,138 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-01-19 13:26:59,252 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 13:26:59,252 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 13:26:59,300 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 13:26:59,301 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 13:26:59,304 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 13:26:59,596 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 13:26:59,597 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 13:26:59,597 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 13:27:00,171 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 13:27:00,212 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 13:27:00,212 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 13:27:00,213 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 13:27:00,737 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 13:27:00.737210
+2026-01-19 13:27:03,692 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-19 13:27:04,862 [ERROR] [MainThread] [root/home.py:83]: The system cannot find the file specified: 'C:\Users\pizza\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Stremio.lnk'
+2026-01-19 13:27:08,656 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-19 13:28:04,046 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 13:28:04,150 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 13:28:04,150 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 13:28:04,156 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 13:28:04,219 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 13:28:04,235 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 13:28:04,238 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 13:28:04,464 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 13:28:04,464 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 13:28:04,464 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 13:28:05,033 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 13:28:05,101 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 13:28:05,101 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 13:28:05,102 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 13:28:05,234 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 13:28:05.234605
+2026-01-19 13:28:06,090 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-19 16:54:59,519 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 16:54:59,519 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 16:54:59,519 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 16:55:00,359 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 16:55:00,426 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 16:55:00,426 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 16:55:00,426 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 16:55:00,843 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 16:55:00.843106
+2026-01-19 17:05:00,374 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:05:00.374205
+2026-01-19 17:08:19,618 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\blyat\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- weather:
+  - null value not allowed
+
+2026-01-19 17:08:56,898 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\blyat\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- weather:
+  - null value not allowed
+
+2026-01-19 17:09:05,409 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\blyat\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- weather:
+  - null value not allowed
+
+2026-01-19 17:09:24,547 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\blyat\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- weather:
+  - null value not allowed
+
+2026-01-19 17:09:59,387 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\blyat\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- weather:
+  - null value not allowed
+
+2026-01-19 17:10:55,132 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\blyat\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- weather:
+  - null value not allowed
+
+2026-01-19 17:11:56,490 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\blyat\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- weather:
+  - null value not allowed
+
+2026-01-19 17:13:03,426 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 17:13:03,527 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 17:13:03,527 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 17:13:04,249 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 17:13:04,283 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 17:13:04,301 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 17:13:04,303 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 17:13:05,120 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 17:13:05,120 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 17:13:05,121 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 17:13:05,881 [ERROR] [MainThread] [root/widget_builder.py:100]: Failed to validate widget(s) due to invalid options  - weather
+      how_alerts:
+      - unknown field
+      
+2026-01-19 17:13:05,899 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 17:13:05,934 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 17:13:05,934 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 17:13:05,935 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 17:13:29,325 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 17:13:29,431 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 17:13:29,431 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 17:13:29,439 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 17:13:29,459 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 17:13:29,461 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 17:13:29,465 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 17:13:29,743 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 17:13:29,743 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 17:13:29,743 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 17:13:30,286 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 17:13:30,324 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 17:13:30,324 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 17:13:30,324 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 17:13:30,664 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:13:30.664093
+2026-01-19 17:14:55,723 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 17:14:55,825 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 17:14:55,825 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 17:14:55,828 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 17:14:55,876 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 17:14:55,891 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 17:14:55,892 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 17:14:56,117 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 17:14:56,117 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 17:14:56,117 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 17:14:56,648 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 17:14:56,681 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 17:14:56,681 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 17:14:56,681 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 17:14:56,815 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:14:56.815264
+2026-01-19 17:15:03,929 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 17:15:04,033 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 17:15:04,033 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 17:15:04,037 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 17:15:04,081 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 17:15:04,090 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 17:15:04,091 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 17:15:04,321 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 17:15:04,321 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 17:15:04,321 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 17:15:04,867 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 17:15:04,899 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 17:15:04,899 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 17:15:04,900 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 17:15:05,659 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:15:05.659170
+2026-01-19 17:16:08,557 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 17:16:08,658 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 17:16:08,658 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 17:16:08,663 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 17:16:08,706 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 17:16:08,721 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 17:16:08,722 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 17:16:08,968 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 17:16:08,969 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 17:16:08,969 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 17:16:09,508 [ERROR] [MainThread] [root/widget_builder.py:100]: Failed to validate widget(s) due to invalid options  - weather
+      blizzardDay:
+      - unknown field
+      blizzardNight:
+      - unknown field
+      clearNight:
+      - unknown field
+      cloudyDay:
+      - unknown field
+      cloudyNight:
+      - unknown field
+      foggyDay:
+      - unknown field
+      foggyNight:
+      - unknown field
+      rainyDay:
+      - unknown field
+      rainyNight:
+      - unknown field
+      snowyDay:
+      - unknown field
+      snowyNight:
+      - unknown field
+      sunnyDay:
+      - unknown field
+      thunderstormDay:
+      - unknown field
+      thunderstormNight:
+      - unknown field
+      
+2026-01-19 17:16:09,526 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 17:16:09,563 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 17:16:09,563 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 17:16:09,564 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 17:20:54,155 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 17:20:54,268 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 17:20:54,268 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 17:20:54,272 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 17:20:54,293 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 17:20:54,294 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 17:20:54,299 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 17:20:54,563 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 17:20:54,563 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 17:20:54,563 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 17:20:55,114 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 17:20:55,148 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 17:20:55,148 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 17:20:55,149 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 17:20:55,386 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:20:55.386408
+2026-01-19 17:21:19,294 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 17:21:19,411 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 17:21:19,411 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 17:21:19,414 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 17:21:19,457 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 17:21:19,471 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 17:21:19,472 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 17:21:19,706 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 17:21:19,706 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 17:21:19,706 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 17:21:20,240 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 17:21:20,275 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 17:21:20,275 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 17:21:20,276 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 17:21:20,482 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:21:20.482410
+2026-01-19 17:21:36,377 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 17:21:36,482 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 17:21:36,483 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 17:21:36,486 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 17:21:36,528 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 17:21:36,534 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 17:21:36,535 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 17:21:36,775 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 17:21:36,776 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 17:21:36,776 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 17:21:37,328 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 17:21:37,366 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 17:21:37,366 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 17:21:37,366 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 17:21:37,814 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:21:37.814525
+2026-01-19 17:31:37,388 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:31:37.388070
+2026-01-19 17:41:37,362 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:41:37.362253
+2026-01-19 17:51:37,547 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 17:51:37.547687
+2026-01-19 18:01:37,415 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 18:01:37.415773
+2026-01-19 18:11:37,421 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 18:11:37.421820
+2026-01-19 18:21:37,427 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 18:21:37.427635
+2026-01-19 18:31:37,359 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 18:31:37.359250
+2026-01-19 18:41:37,368 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 18:41:37.368913
+2026-01-19 18:51:37,381 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 18:51:37.381216
+2026-01-19 19:01:37,424 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:01:37.424243
+2026-01-19 19:11:37,372 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:11:37.372375
+2026-01-19 19:21:37,361 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:21:37.361470
+2026-01-19 19:31:37,350 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:31:37.350154
+2026-01-19 19:31:52,484 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-19 19:31:58,312 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-01-19 19:31:58,423 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 19:31:58,423 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 19:31:58,433 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 19:31:58,440 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 19:31:58,440 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 19:31:58,714 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 19:31:58,714 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 19:31:58,714 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 19:31:59,227 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 19:31:59,261 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 19:31:59,262 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 19:31:59,262 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 19:31:59,572 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:31:59.572760
+2026-01-19 19:36:36,656 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 19:36:36,757 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 19:36:36,757 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 19:36:36,761 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 19:36:36,766 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 19:36:36,775 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 19:36:36,776 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 19:36:37,033 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 19:36:37,033 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 19:36:37,034 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 19:36:37,529 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 19:36:37,562 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 19:36:37,562 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 19:36:37,563 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 19:36:37,994 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:36:37.994053
+2026-01-19 19:36:49,092 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 19:36:49,194 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 19:36:49,194 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 19:36:49,198 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 19:36:49,206 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 19:36:49,218 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 19:36:49,218 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 19:36:49,470 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 19:36:49,470 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 19:36:49,470 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 19:36:49,994 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 19:36:50,028 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 19:36:50,028 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 19:36:50,029 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 19:36:50,518 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:36:50.518387
+2026-01-19 19:41:28,205 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 19:41:28,206 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 19:41:28,206 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 19:41:29,099 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 19:41:29,138 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 19:41:29,138 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 19:41:29,139 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 19:41:29,550 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:41:29.550654
+2026-01-19 19:43:32,221 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-01-19 19:43:32,336 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 19:43:32,336 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 19:43:32,371 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 19:43:32,386 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 19:43:32,388 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 19:43:33,198 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 19:43:33,199 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 19:43:33,199 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 19:43:33,955 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 19:43:33,991 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 19:43:33,991 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 19:43:33,992 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 19:43:34,089 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:43:34.089321
+2026-01-19 19:44:45,370 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 19:44:45,475 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 19:44:45,475 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 19:44:45,483 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 19:44:45,527 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 19:44:45,534 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 19:44:45,535 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 19:44:45,770 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 19:44:45,771 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 19:44:45,771 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 19:44:46,298 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 19:44:46,330 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 19:44:46,330 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 19:44:46,331 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 19:44:46,612 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:44:46.612893
+2026-01-19 19:45:16,900 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-19 19:45:17,003 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 19:45:17,003 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 19:45:17,006 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-19 19:45:17,049 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 19:45:17,064 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 19:45:17,064 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-19 19:45:17,300 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-19 19:45:17,302 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-19 19:45:17,302 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-19 19:45:17,835 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-19 19:45:17,867 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-19 19:45:17,867 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-19 19:45:17,868 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-19 19:45:18,113 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-19 19:45:18.113303
+2026-01-19 19:52:43,717 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-19 19:52:43,829 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-19 19:52:43,829 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-19 19:52:43,873 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-19 19:52:43,876 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-19 19:52:43,879 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-20 01:17:14,032 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-20 01:17:14,032 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-20 01:17:14,032 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-20 01:17:14,811 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-20 01:17:14,844 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-20 01:17:14,844 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-20 01:17:14,845 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-20 01:17:15,281 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 01:17:15.281056
+2026-01-20 01:17:16,984 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-20 01:27:14,725 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 01:27:14.725335
+2026-01-20 01:37:14,701 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 01:37:14.701084
+2026-01-20 01:37:25,022 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-20 01:37:25,125 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-20 01:37:25,125 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-20 01:37:25,161 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-20 01:37:25,172 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-20 01:37:25,173 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-20 02:00:26,417 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-20 02:00:26,418 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-20 02:00:26,418 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-20 02:00:27,317 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-20 02:00:27,359 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-20 02:00:27,359 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-20 02:00:27,359 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-20 02:00:27,742 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 02:00:27.742957
+2026-01-20 02:01:51,100 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-20 02:10:27,216 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 02:10:27.216245
+2026-01-20 02:20:27,218 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 02:20:27.218328
+2026-01-20 02:30:27,261 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 02:30:27.261507
+2026-01-20 02:40:27,216 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 02:40:27.216676
+2026-01-20 02:50:27,213 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 02:50:27.213718
+2026-01-20 03:00:27,249 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 03:00:27.249554
+2026-01-20 03:10:27,220 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 03:10:27.220017
+2026-01-20 03:20:27,209 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 03:20:27.209287
+2026-01-20 03:30:27,211 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 03:30:27.211564
+2026-01-20 11:07:57,941 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-20 11:07:57,942 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-20 11:07:57,942 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-20 11:07:58,994 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-20 11:07:59,052 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-20 11:07:59,052 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-20 11:07:59,053 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-20 11:07:59,317 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 11:07:59.317324
+2026-01-20 11:17:58,772 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 11:17:58.772294
+2026-01-20 11:27:58,764 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 11:27:58.764636
+2026-01-20 11:37:58,772 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 11:37:58.772207
+2026-01-20 11:47:58,789 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 11:47:58.789313
+2026-01-20 11:57:58,791 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 11:57:58.791569
+2026-01-20 12:07:58,784 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 12:07:58.784104
+2026-01-20 12:17:58,808 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 12:17:58.808383
+2026-01-20 12:27:58,800 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 12:27:58.800824
+2026-01-20 12:37:58,798 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 12:37:58.798830
+2026-01-20 12:47:58,822 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 12:47:58.822333
+2026-01-20 12:57:58,801 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 12:57:58.801624
+2026-01-20 13:07:58,874 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 13:07:58.874046
+2026-01-20 13:17:58,815 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 13:17:58.815332
+2026-01-20 13:27:58,830 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 13:27:58.830090
+2026-01-20 13:37:58,847 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 13:37:58.847923
+2026-01-20 13:46:32,469 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-20 13:47:58,834 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 13:47:58.834085
+2026-01-20 13:50:59,860 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-20 13:50:59,963 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-20 13:50:59,964 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-20 13:50:59,968 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-20 13:51:00,011 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-20 13:51:00,025 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-20 13:51:00,027 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-20 13:51:00,358 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-20 13:51:00,358 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-20 13:51:00,359 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-20 13:51:00,950 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-20 13:51:00,984 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-20 13:51:00,984 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-20 13:51:00,985 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-20 13:51:01,348 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 13:51:01.348149
+2026-01-20 13:51:36,853 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-20 13:51:36,962 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-20 13:51:36,962 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-20 13:51:36,965 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-20 13:51:37,024 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-20 13:51:37,025 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-20 13:51:37,027 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-20 13:51:37,280 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-20 13:51:37,281 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-20 13:51:37,281 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-20 13:51:37,808 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-20 13:51:37,848 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-20 13:51:37,848 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-20 13:51:37,848 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-20 13:51:38,094 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 13:51:38.094306
+2026-01-20 13:51:51,976 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-20 13:51:52,087 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-20 13:51:52,087 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-20 13:51:52,091 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-20 13:51:52,149 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-20 13:51:52,150 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-20 13:51:52,152 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-20 13:51:52,404 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-20 13:51:52,404 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-20 13:51:52,404 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-20 13:51:52,945 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-20 13:51:52,979 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-20 13:51:52,979 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-20 13:51:52,980 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-20 13:51:53,432 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-20 13:51:53.432849
+2026-01-20 13:55:26,819 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-21 12:57:44,791 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-01-21 12:57:44,898 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-21 12:57:44,898 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-21 12:57:44,995 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-21 12:57:44,995 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-21 12:57:44,995 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-21 12:57:45,000 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-21 12:57:45,009 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-21 12:57:45,011 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-21 12:57:45,214 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-21 12:57:45,215 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-21 12:57:45,215 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-21 12:57:45,875 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-21 12:57:45,916 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-21 12:57:45,917 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-21 12:57:45,917 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-21 12:57:46,307 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 12:57:46.307330
+2026-01-21 12:57:55,990 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-21 12:57:56,101 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-21 12:57:56,101 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-21 12:57:56,148 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-21 12:57:56,159 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-21 12:57:56,160 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-21 13:00:51,606 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-21 13:00:51,607 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-21 13:00:51,607 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-21 13:00:52,140 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-21 13:00:52,180 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-21 13:00:52,180 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-21 13:00:52,180 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-21 13:00:52,742 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 13:00:52.741974
+2026-01-21 13:10:52,320 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 13:10:52.320811
+2026-01-21 13:20:53,015 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 13:20:53.015056
+2026-01-21 13:30:52,344 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 13:30:52.343979
+2026-01-21 13:40:52,189 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 13:40:52.189071
+2026-01-21 13:50:52,178 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 13:50:52.178431
+2026-01-21 14:00:52,212 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 14:00:52.212565
+2026-01-21 14:10:52,337 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 14:10:52.337826
+2026-01-21 14:20:52,357 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 14:20:52.357507
+2026-01-21 14:30:52,244 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 14:30:52.244378
+2026-01-21 14:40:52,228 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 14:40:52.228303
+2026-01-21 14:46:38,464 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-01-21 14:46:38,565 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-21 14:46:38,565 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-21 14:46:38,618 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-21 14:46:38,629 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-21 14:46:38,630 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-21 14:46:38,927 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-21 14:46:38,927 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-21 14:46:38,927 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-21 14:46:39,608 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-21 14:46:39,644 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-21 14:46:39,644 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-21 14:46:39,645 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-21 14:46:40,077 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 14:46:40.077067
+2026-01-21 14:56:39,774 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 14:56:39.774572
+2026-01-21 15:06:39,794 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 15:06:39.794294
+2026-01-21 15:16:39,797 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 15:16:39.797606
+2026-01-21 15:26:39,664 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 15:26:39.664009
+2026-01-21 15:36:39,661 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 15:36:39.661693
+2026-01-21 15:46:39,795 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-21 15:46:39.795302
+2026-01-21 15:48:48,797 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-21 15:48:48,910 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-21 15:48:48,910 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-21 15:48:48,951 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-21 15:48:48,957 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-21 15:48:48,960 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-22 03:59:49,885 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-22 03:59:49,886 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-22 03:59:49,886 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-22 03:59:50,829 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-22 03:59:50,897 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-22 03:59:50,897 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-22 03:59:50,898 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-22 03:59:51,320 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 03:59:51.320765
+2026-01-22 04:09:50,743 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 04:09:50.743789
+2026-01-22 04:19:50,761 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 04:19:50.761197
+2026-01-22 04:25:31,336 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-22 04:29:50,733 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 04:29:50.733132
+2026-01-22 04:39:50,744 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 04:39:50.744530
+2026-01-22 04:49:50,728 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 04:49:50.728672
+2026-01-22 08:48:39,608 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-22 08:48:39,608 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-22 08:48:39,608 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-22 08:48:40,135 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-22 08:48:40,167 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-22 08:48:40,167 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-22 08:48:40,168 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-22 08:48:40,761 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 08:48:40.761052
+2026-01-22 08:58:40,316 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 08:58:40.315999
+2026-01-22 09:08:40,177 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 09:08:40.177601
+2026-01-22 09:18:40,188 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 09:18:40.188261
+2026-01-22 09:28:40,389 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 09:28:40.389817
+2026-01-22 09:38:40,197 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 09:38:40.197624
+2026-01-22 09:48:40,432 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 09:48:40.432193
+2026-01-22 09:58:40,314 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 09:58:40.314405
+2026-01-22 10:08:40,184 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 10:08:40.184189
+2026-01-22 10:18:40,188 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 10:18:40.188239
+2026-01-22 10:28:40,368 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 10:28:40.368134
+2026-01-22 10:38:40,186 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 10:38:40.185975
+2026-01-22 10:38:54,058 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-22 10:38:54,160 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-22 10:38:54,160 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-22 10:38:54,210 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-22 10:38:54,222 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-22 10:38:54,224 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-22 11:34:12,588 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-22 11:34:12,589 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-22 11:34:12,589 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-22 11:34:13,575 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-22 11:34:13,616 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-22 11:34:13,617 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-22 11:34:13,617 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-22 11:34:13,971 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 11:34:13.971220
+2026-01-22 11:44:13,459 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 11:44:13.459064
+2026-01-22 11:54:13,465 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 11:54:13.465907
+2026-01-22 12:04:13,474 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 12:04:13.474044
+2026-01-22 12:14:13,594 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 12:14:13.594105
+2026-01-22 12:24:13,626 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-22 12:24:13.626814
+2026-01-22 12:31:08,587 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-22 12:31:08,692 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-22 12:31:08,692 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-22 12:31:08,729 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-22 12:31:08,744 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-22 12:31:08,745 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-23 18:43:09,358 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-23 18:43:09,360 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-23 18:43:09,360 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-23 18:43:10,098 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-23 18:43:10,138 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-23 18:43:10,138 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-23 18:43:10,139 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-23 18:43:10,789 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-23 18:43:10.789287
+2026-01-23 18:43:14,785 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-23 18:53:10,113 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-23 18:53:10.113741
+2026-01-23 19:04:46,487 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-23 19:04:46,489 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-23 19:04:46,489 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-23 19:04:47,212 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-23 19:04:47,252 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-23 19:04:47,252 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-23 19:04:47,253 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-23 19:04:47,584 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-23 19:04:47.584810
+2026-01-23 19:14:47,233 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-23 19:14:47.233012
+2026-01-23 19:24:47,240 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-23 19:24:47.239975
+2026-01-24 15:57:36,211 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-24 15:57:36,213 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-24 15:57:36,213 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-24 15:57:36,942 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-24 15:57:36,982 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-24 15:57:36,982 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-24 15:57:36,983 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-24 15:57:37,294 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 15:57:37.294881
+2026-01-24 15:57:47,272 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-24 15:58:56,405 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-24 15:59:21,004 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-24 16:07:36,922 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 16:07:36.922469
+2026-01-24 16:17:37,080 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 16:17:37.080240
+2026-01-24 16:27:37,081 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 16:27:37.081559
+2026-01-24 16:37:36,954 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 16:37:36.954156
+2026-01-24 16:47:36,947 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 16:47:36.947150
+2026-01-24 16:57:36,930 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 16:57:36.930214
+2026-01-24 17:07:37,069 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 17:07:37.069095
+2026-01-24 17:17:36,936 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 17:17:36.936934
+2026-01-24 17:27:37,073 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 17:27:37.073614
+2026-01-24 17:37:36,938 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 17:37:36.938294
+2026-01-24 17:47:36,976 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 17:47:36.976782
+2026-01-24 17:53:49,443 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-24 17:53:49,553 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-24 17:53:49,553 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-24 17:53:49,588 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-24 17:53:49,600 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-24 17:53:49,602 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-24 20:19:28,972 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-24 20:19:28,972 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-24 20:19:28,973 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-24 20:19:29,564 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-24 20:19:29,599 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-24 20:19:29,599 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-24 20:19:29,599 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-24 20:19:30,041 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 20:19:30.041780
+2026-01-24 20:20:16,777 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-24 20:29:29,608 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 20:29:29.608382
+2026-01-24 20:39:29,750 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 20:39:29.750633
+2026-01-24 20:49:29,649 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 20:49:29.649596
+2026-01-24 20:59:29,610 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 20:59:29.610294
+2026-01-24 21:09:29,767 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 21:09:29.767189
+2026-01-24 21:15:15,850 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-24 21:15:54,049 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-24 21:17:01,569 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-24 21:17:17,921 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-24 21:19:29,602 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 21:19:29.602328
+2026-01-24 21:29:29,744 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 21:29:29.744279
+2026-01-24 21:39:29,603 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 21:39:29.602946
+2026-01-24 21:49:29,601 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 21:49:29.601648
+2026-01-24 21:59:29,878 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 21:59:29.878445
+2026-01-24 22:09:29,634 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 22:09:29.634460
+2026-01-24 22:19:29,742 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 22:19:29.742745
+2026-01-24 22:29:29,839 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 22:29:29.839756
+2026-01-24 22:39:29,624 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 22:39:29.624649
+2026-01-24 22:49:29,638 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 22:49:29.638859
+2026-01-24 22:59:29,743 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 22:59:29.743904
+2026-01-24 23:09:29,649 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 23:09:29.649903
+2026-01-24 23:19:29,609 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 23:19:29.609830
+2026-01-24 23:29:29,737 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 23:29:29.737532
+2026-01-24 23:39:29,590 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 23:39:29.590713
+2026-01-24 23:49:29,601 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 23:49:29.601614
+2026-01-24 23:59:29,591 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-24 23:59:29.591909
+2026-01-25 00:09:29,616 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 00:09:29.616172
+2026-01-25 00:19:29,640 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 00:19:29.640275
+2026-01-25 12:18:38,700 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-25 12:18:38,701 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-25 12:18:38,701 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-25 12:18:39,462 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-25 12:18:39,514 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-25 12:18:39,515 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-25 12:18:39,515 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-25 12:18:39,885 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 12:18:39.885355
+2026-01-25 12:18:41,517 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-25 12:18:45,833 [ERROR] [MainThread] [root/home.py:83]: The system cannot find the file specified: 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\foobar2000.lnk'
+2026-01-25 12:18:53,081 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-25 12:28:39,600 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 12:28:39.600729
+2026-01-25 12:38:39,467 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 12:38:39.466990
+2026-01-25 12:48:39,477 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 12:48:39.477850
+2026-01-25 12:58:39,467 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 12:58:39.467884
+2026-01-25 13:08:39,720 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 13:08:39.720242
+2026-01-25 13:18:39,601 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 13:18:39.601008
+2026-01-25 13:28:39,734 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 13:28:39.734860
+2026-01-25 13:38:39,467 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 13:38:39.467468
+2026-01-25 13:48:39,472 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 13:48:39.472728
+2026-01-25 22:14:33,210 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-25 22:14:33,210 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-25 22:14:33,210 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-25 22:14:33,915 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-25 22:14:33,957 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-25 22:14:33,957 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-25 22:14:33,959 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-25 22:14:34,330 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 22:14:34.330266
+2026-01-25 22:15:17,186 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-25 22:24:33,960 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 22:24:33.960724
+2026-01-25 22:34:33,951 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 22:34:33.951408
+2026-01-25 22:44:33,943 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 22:44:33.943762
+2026-01-25 22:54:33,955 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 22:54:33.955876
+2026-01-25 23:04:34,073 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-25 23:04:34.073424
+2026-01-25 23:10:42,808 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-25 23:10:42,916 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-25 23:10:42,916 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-25 23:10:42,952 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-25 23:10:42,962 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-25 23:10:42,964 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-26 14:42:31,324 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-26 14:42:31,324 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-26 14:42:31,325 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-26 14:42:32,053 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-26 14:42:32,093 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-26 14:42:32,094 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-26 14:42:32,094 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-26 14:42:32,347 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 14:42:32.347302
+2026-01-26 14:42:35,429 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-26 14:52:32,214 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 14:52:32.214122
+2026-01-26 15:02:32,058 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 15:02:32.058739
+2026-01-26 15:12:32,065 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 15:12:32.065281
+2026-01-26 15:22:32,325 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 15:22:32.325209
+2026-01-26 15:32:32,073 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 15:32:32.073193
+2026-01-26 15:42:32,196 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 15:42:32.196915
+2026-01-26 15:52:33,396 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 15:52:33.396192
+2026-01-26 16:02:32,045 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 16:02:32.045758
+2026-01-26 16:10:33,795 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-26 16:10:33,900 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-26 16:10:33,900 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-26 16:10:33,936 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-26 16:10:33,946 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-26 16:10:33,948 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-26 17:26:40,614 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-26 17:26:40,615 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-26 17:26:40,615 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-26 17:26:41,121 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-26 17:26:41,154 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-26 17:26:41,154 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-26 17:26:41,155 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-26 17:26:41,669 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 17:26:41.669042
+2026-01-26 17:27:11,144 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-26 17:36:41,186 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 17:36:41.186461
+2026-01-26 17:46:41,181 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 17:46:41.181427
+2026-01-26 17:56:41,309 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 17:56:41.309708
+2026-01-26 18:06:41,179 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 18:06:41.179844
+2026-01-26 18:16:41,159 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 18:16:41.159555
+2026-01-26 18:26:41,306 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 18:26:41.306837
+2026-01-26 18:36:41,319 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 18:36:41.319693
+2026-01-26 18:46:41,315 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 18:46:41.315224
+2026-01-26 18:56:41,320 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 18:56:41.320020
+2026-01-26 19:06:41,336 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 19:06:41.336052
+2026-01-26 19:16:41,230 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 19:16:41.230375
+2026-01-26 19:26:41,335 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 19:26:41.335789
+2026-01-26 19:36:41,334 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 19:36:41.334709
+2026-01-26 19:46:41,202 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 19:46:41.202433
+2026-01-26 19:56:41,293 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 19:56:41.293128
+2026-01-26 20:06:41,205 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 20:06:41.205559
+2026-01-26 20:16:41,233 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 20:16:41.233705
+2026-01-26 21:45:39,422 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-26 21:45:39,424 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-26 21:45:39,424 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-26 21:45:40,145 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-26 21:45:40,185 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-26 21:45:40,185 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-26 21:45:40,186 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-26 21:45:40,545 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 21:45:40.545609
+2026-01-26 21:45:41,444 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-26 21:55:40,290 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 21:55:40.290550
+2026-01-26 22:05:40,280 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 22:05:40.280612
+2026-01-26 22:15:40,175 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 22:15:40.175428
+2026-01-26 22:25:40,281 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 22:25:40.281339
+2026-01-26 22:35:40,281 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 22:35:40.281876
+2026-01-26 22:45:40,152 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 22:45:40.152540
+2026-01-26 22:55:40,131 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 22:55:40.131781
+2026-01-26 23:05:40,151 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 23:05:40.151298
+2026-01-26 23:15:40,160 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 23:15:40.160368
+2026-01-26 23:25:40,291 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 23:25:40.291767
+2026-01-26 23:35:40,142 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 23:35:40.142755
+2026-01-26 23:45:40,277 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 23:45:40.277119
+2026-01-26 23:55:40,129 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-26 23:55:40.129078
+2026-01-27 00:05:40,272 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-27 00:05:40.272611
+2026-01-28 00:28:54,477 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-28 00:28:54,478 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-28 00:28:54,478 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-28 00:28:55,288 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-28 00:28:55,329 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-28 00:28:55,329 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-28 00:28:55,329 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-28 00:28:55,575 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 00:28:55.575375
+2026-01-28 00:38:55,285 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 00:38:55.285773
+2026-01-28 00:48:55,284 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 00:48:55.284004
+2026-01-28 00:58:55,281 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 00:58:55.281888
+2026-01-28 01:08:55,277 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 01:08:55.277607
+2026-01-28 01:18:55,301 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 01:18:55.301682
+2026-01-28 01:28:55,280 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 01:28:55.280477
+2026-01-28 01:38:55,287 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 01:38:55.287059
+2026-01-28 01:48:55,277 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 01:48:55.277103
+2026-01-28 01:58:55,295 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 01:58:55.295166
+2026-01-28 02:00:08,027 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:02:15,383 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:02:28,435 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:03:21,518 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:08:09,011 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:08:38,530 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:08:42,668 [ERROR] [Dummy-11] [core.utils.widgets.media.media/media.py:266]: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready.
+2026-01-28 02:08:55,287 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 02:08:55.287104
+2026-01-28 02:10:46,020 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:13:41,609 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:18:55,291 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 02:18:55.290994
+2026-01-28 02:23:31,489 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:23:48,172 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:24:17,883 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:25:09,927 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:25:10,752 [ERROR] [MainThread] [root/home.py:83]: The system cannot find the file specified: 'C:\Users\blyat\OneDrive\Pictures'
+2026-01-28 02:25:14,307 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:25:15,253 [ERROR] [MainThread] [root/home.py:83]: The system cannot find the file specified: 'C:\Users\blyat\OneDrive\Pictures'
+2026-01-28 02:28:55,422 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 02:28:55.422111
+2026-01-28 02:31:27,827 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2026-01-28 02:31:27,938 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-28 02:31:27,938 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-28 02:31:27,974 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-28 02:31:27,984 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-28 02:31:27,986 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-28 02:38:35,782 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-28 02:38:35,782 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-28 02:38:35,782 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-28 02:38:36,311 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-28 02:38:36,346 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-28 02:38:36,346 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-28 02:38:36,347 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-28 02:38:37,024 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 02:38:37.024848
+2026-01-28 02:38:42,569 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 02:48:36,369 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 02:48:36.369236
+2026-01-28 02:58:36,338 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 02:58:36.338828
+2026-01-28 03:08:36,346 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 03:08:36.346691
+2026-01-28 03:18:36,338 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 03:18:36.338572
+2026-01-28 03:28:36,341 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 03:28:36.341792
+2026-01-28 03:38:36,472 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 03:38:36.472823
+2026-01-28 03:48:36,337 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 03:48:36.337609
+2026-01-28 03:58:36,341 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 03:58:36.341910
+2026-01-28 04:08:36,343 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 04:08:36.343275
+2026-01-28 04:18:36,351 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 04:18:36.351293
+2026-01-28 04:28:36,495 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 04:28:36.495350
+2026-01-28 04:32:40,940 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-28 04:32:41,044 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-28 04:32:41,044 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-28 04:32:41,048 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-28 04:32:41,088 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-28 04:32:41,094 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-28 04:32:41,097 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-28 04:32:41,341 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-28 04:32:41,341 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-28 04:32:41,341 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-28 04:32:41,895 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\blyat\.config\yasb
+2026-01-28 04:32:41,943 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-28 04:32:41,943 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-28 04:32:41,944 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-28 04:32:42,658 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-28 04:32:42.657958
+2026-01-28 04:32:43,789 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2026-01-28 04:32:47,901 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
